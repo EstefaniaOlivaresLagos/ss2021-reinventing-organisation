@@ -56,43 +56,45 @@
     <td><b style="font-size:28px"><div style="width:350px"><span style="color:teal">7. Evolutionary: Teal</b></td>
  </tr>
  <tr>
-    <td><b style="font-size:20px">Focus on culture & empowerment<br>--> boost employee motivation<br> Stakeholders replace shareholders as primary purpose <br>**Metaphor**: Family <br> **Key Breakthrough**: Empowerment, Egalitarian Management, Stakeholder Model <br> **Examples**: Businesses known for idealistic practices --> <br>Southwest Airlines </td>
-    <td><b style="font-size:20px">Self-Management replaces hierarchical pyramid <br> Organisations are seen as living entities <br> Orientation towards realisation of potential <br>**Metaphor**: Living organism <br>**Key Breakthrough**: Self-Management, Wholeness, Evolutionary purpose <br>**Examples**: Buurtzorg, Morning Star
+    <td><b style="font-size:20px">Focus on culture & empowerment<br>--> boost employee motivation<br> Stakeholders replace shareholders as primary purpose <br>**Metaphor**: Family <br> **Key Breakthrough**: Empowerment, Egalitarian Management, Stakeholder Model <br> **Examples**: Businesses known for idealistic practices --> Southwest Airlines </td>
+    <td><b style="font-size:20px">Self-Management replaces hierarchical pyramid <br> Organisations are seen as living entities <br> Orientation towards realisation of potential <br> **Metaphor**: Living organism <br>**Key Breakthrough**: Self-Management, Wholeness, Evolutionary purpose <br>**Examples**: Buurtzorg, Morning Star
  </td>
  </tr>
 </table>
 
 ---
 
-# Excercise
-
-Who works in which company? \
-And where do you locate your company?
+<td><b style="font-size:48px"><span style="color:blue"> EXERCISE</b>
+<br>
+<td><b style="font-size:28px">Tell us in which company you work? <br> 
+<td><b style="font-size:28px">And in which group do you see your company?
 
 ---
 
-# Solution
-
-<span style="color:teal"> Saskia [Douglas]: "light" Teal </span>
-& <span style="color:orange"> Estefania [Vodafone]: Orange </span>
-
-###### Leon [RTL Group]: & Dominque [Remondis]:
-
-###### Thomas: & Addah:
-
-###### Jan-Philip [Goodyear]: & Nitin:
-
-###### Donal [HRS]: & Sylvia [Telekom]
-
-###### Viola [The Ates Spirit]: & Brinsley [Marsh & McLennan Companies]:
-
+<td><b style="font-size:48px"><span style="color:blue"> RESULTS</b></span>
+<br>
+<table border="0">
+ <tr>
+    <td><b style="font-size:28px"><div style="width:290px">Student</b></td>
+    <td><b style="font-size:28px"><div style="width:290px">Company</b></td>
+     <td><b style="font-size:28px"><div style="width:290px">Type</b></td>
+ </tr>
+ <tr>
+    <td><b style="font-size:16px">1. Saskia <br> 2. Estefania <br> 3. Leon <br> 4. Dominique <br> 5. Thomas </td>
+    <td><b style="font-size:16px">1. Douglas <br> 2. Vodafone <br> 3. RTL Group <br> 4. Remondis <br> 5. TBD</td>
+    <td><b style="font-size:16px"><span style="color:teal">1. "light Teal"</span> <br><span style="color:orange">2. Orange</span> <br> <span style="color:black">3. TBD</span> <br> <span style="color:black">4. TBD</span> <br> <span style="color:black">5. TBD</span> </td>
+ </tr>
+</table>
+    
 ---
 
 ## PART II
 
 ---
 
-## Structures. Practices. Cultures.
+### Structures. Practices. Cultures.
+
+<td><b style="font-size:36px"><span style="color:teal">Three Breakthroughs </span>
 
 <table border="0">
  <tr>
@@ -107,9 +109,10 @@ And where do you locate your company?
  </tr>
 </table>
 <br>
-<td><b style="font-size:36px"> Key Takeaway: Companies don't have to implement all three simultaneously</td>
+<td><b style="font-size:42px"> <span style="color:teal">Key Takeaway:</span> Companies don't have to implement all three simultaneously</td>
 
 ---
+
 <td><b style="font-size:48px"><span style="color:teal">SELF-MANAGEMENT</b>
 
 ###### Get rid of your hierarchical structure.
@@ -124,9 +127,9 @@ And where do you locate your company?
 
 ###### Don‘t hide behind a professional mask. Dare to be fully yourself.
 
-<td><b style="font-size:20px">- We all tend to wear a professional mask that…</td> <br>
+<td><b style="font-size:20px">- We all tend to hide our inner self at work but bring our professional ego forward</td> <br>
 <td><b style="font-size:20px">- Instead: Drop the mask and bring all of who we are to work</td><br>
-<td><b style="font-size:20px">- The Result: MISSING CONTENT</td>
+<td><b style="font-size:20px">- The Result: Work becomes a vehicle to help reveal our inner greatness and manifest our calling</td>
 
 ---
 
@@ -136,14 +139,40 @@ And where do you locate your company?
 
 ###### Instead dance with what wants to emerge.
 
-<td><b style="font-size:20px">- Manager: captain who sets the direction and makes sure the crew sails as planned</td> <br>
-<td><b style="font-size:20px">- Instead: listen where the corporation (Crew) is going to develop</td><br>
-<td><b style="font-size:20px">- The Result: MISSING CONTENT</td>
+<td><b style="font-size:20px">- Manager: Captain who sets the direction and makes sure the crew sails as planned</td> <br>
+<td><b style="font-size:20px">- Instead: Listen where the corporation (Crew) is going to develop</td><br>
+<td><b style="font-size:20px">- The Result: Organisations are seen as living systems with a sense of direction of its own</td>
+
 ---
 
-## PART III
+## Part III
 
-> Let us SENSE & ADAPT
+<span style="color:teal">LET'S BEGIN WITH A STORY
+
+---
+
+<td><b style="font-size:60px">EXAMPLE - BUURTZORG</td> <br>
+<br>
+<table border="0">
+ <tr>
+    <td><b style="font-size:32px"><div style="width:290px"><span style="color:orange">Orange View</b></td>
+    <td><b style="font-size:32px"><div style="width:290px"><span style="color:teal">Teal View</b></td>
+ </tr>
+ <tr>
+    <td><b style="font-size:20px">Nurses as  machines</td>
+    <td><b style="font-size:20px">Nurses as  autonomous life advisers</td>
+ </tr>
+</table>
+<br>
+<td><b style="font-size:36px"><span style="color:teal">KEY TAKEAWAY:</span> The how is more important, then productivity</td> <br>
+
+---
+
+---
+
+## PART IV
+
+<span style="color:teal">SENSE & ADAPT
 
 ---
 
@@ -162,38 +191,6 @@ And where do you locate your company?
 <br>
 
 <td><b style="font-size:28px">**Please insert your favourite 3 topics in the chat**
-
----
-
-## Part III
-
-> Let's begin with a story
-
----
-
-## A Teal Example
-
-### Buurtzorg
-
-<table border="0">
- <tr>
-    <td><b style="font-size:32px"><span style="color:orange">Orange View</b></td>
-    <td><b style="font-size:32px"><span style="color:teal">Teal View</b></td>
- </tr>
- <tr>
-    <td><b style="font-size:20px">Nurses as orange machines</td>
-    <td><b style="font-size:20px">Nurses as teal autonomous life advisers</td>
- </tr>
-</table>
-
----
-
-## The Result
-
-> A customer who gets what he/she needs \
-> **-->** good healthcare and quality time
-
----
 
 ---
 
