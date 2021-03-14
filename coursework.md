@@ -110,6 +110,92 @@ And where do you locate your company?
 <td><b style="font-size:36px"> Key Takeaway: Companies don't have to implement all three simultaneously</td>
 
 ---
+<td><b style="font-size:48px"><span style="color:teal">SELF-MANAGEMENT</b>
+
+###### Get rid of your hierarchical structure.
+
+<td><b style="font-size:20px">- In high complex structures hierarchical structures no longer work well</td> <br>
+<td><b style="font-size:20px">- Instead: powerful, fluid systems with distributed authority and collective intelligence</td><br>
+<td><b style="font-size:20px">- The Result: No one is the boss and we need to overthink traditional management practices</td>
+
+---
+
+<td><b style="font-size:48px"><span style="color:teal">WHOLENESS</b>
+
+###### Don‘t hide behind a professional mask. Dare to be fully yourself.
+
+<td><b style="font-size:20px">- We all tend to wear a professional mask that…</td> <br>
+<td><b style="font-size:20px">- Instead: Drop the mask and bring all of who we are to work</td><br>
+<td><b style="font-size:20px">- The Result: MISSING CONTENT</td>
+
+---
+
+<td><b style="font-size:48px"><span style="color:teal">EVOLUTIONARY PROCESS</b>
+
+###### Stop trying to force future into existence.
+
+###### Instead dance with what wants to emerge.
+
+<td><b style="font-size:20px">- Manager: captain who sets the direction and makes sure the crew sails as planned</td> <br>
+<td><b style="font-size:20px">- Instead: listen where the corporation (Crew) is going to develop</td><br>
+<td><b style="font-size:20px">- The Result: MISSING CONTENT</td>
+---
+
+## PART III
+
+> Let us SENSE & ADAPT
+
+---
+
+<table border="0">
+ <tr>
+    <td><b style="font-size:32px"><div style="width:290px">Self-Management</b></td>
+    <td><b style="font-size:32px"><div style="width:290px">Wholeness</b></td>
+     <td><b style="font-size:32px"><div style="width:290px">Evolutionary Process</b></td>
+ </tr>
+ <tr>
+    <td><b style="font-size:16px">1. Performance Evaluation <br> 2. Decision Making <br> 3. Compensation & Incentives</td>
+    <td><b style="font-size:16px">4. Save Spaces (Feedback) <br> 5. Meeting Culture <br> 6. Commitment & Working Hours <br> 7. Storytelling</td>
+    <td><b style="font-size:16px">8. Budget Planning <br> 9. Strategy <br> 10. Change Management <br> 11. Competition</td>
+ </tr>
+</table>
+<br>
+
+<td><b style="font-size:28px">**Please insert your favourite 3 topics in the chat**
+
+---
+
+## Part III
+
+> Let's begin with a story
+
+---
+
+## A Teal Example
+
+### Buurtzorg
+
+<table border="0">
+ <tr>
+    <td><b style="font-size:32px"><span style="color:orange">Orange View</b></td>
+    <td><b style="font-size:32px"><span style="color:teal">Teal View</b></td>
+ </tr>
+ <tr>
+    <td><b style="font-size:20px">Nurses as orange machines</td>
+    <td><b style="font-size:20px">Nurses as teal autonomous life advisers</td>
+ </tr>
+</table>
+
+---
+
+## The Result
+
+> A customer who gets what he/she needs \
+> **-->** good healthcare and quality time
+
+---
+
+---
 
 ---
 
