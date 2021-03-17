@@ -96,14 +96,15 @@
 ## PART II
 <span style="color:teal">LET'S BEGIN WITH A STORY
 
+![Nurse](IMG_0037_header.jpg)
+
 ---
 
-<td><b style="font-size:60px">EXAMPLE - BUURTZORG</td> <br>
-<br>
+<td><b style="font-size:52px">EXAMPLE - BUURTZORG</td> <br>
 <table border="0">
  <tr>
-    <td><b style="font-size:32px"><div style="width:290px"><span style="color:orange">Orange View</b></td>
-    <td><b style="font-size:32px"><div style="width:290px"><span style="color:teal">Teal View</b></td>
+    <td><b style="font-size:28px"><div style="width:290px"><span style="color:orange">Orange View</b></td>
+    <td><b style="font-size:28px"><div style="width:290px"><span style="color:teal">Teal View</b></td>
  </tr>
  <tr>
     <td><b style="font-size:20px">Nurses as  machines</td>
@@ -112,13 +113,12 @@
 </table>
 
 ![orangevsteal](IMG_0033_header.jpg)
-<td><b style="font-size:36px"><span style="color:teal">KEY TAKEAWAY:</span> The how is more important, then productivity</td> <br>
 
 ---
 ![Tealresult](IMG_0039_edited.jpg)
 ---
 
-<td><b style="font-size:36px"><span style="color:teal">KEY TAKEAWAY:</span> The how is more important, then productivity</td> <br>
+<td><b style="font-size:36px"><span style="color:teal">KEY TAKEAWAY:</span> The how is more important, then productivity.</td> <br>
 ---
 
 
@@ -200,9 +200,6 @@
 
 ![EvolutionaryProcess](IMG_0035_edited.jpg)
 ---
-<td><b style="font-size:48px"><span style="color:teal">At a Glance</b>
-
----
 
 ## PART IV
 
@@ -228,7 +225,7 @@
  </tr>
 </table>
 
-![Bild](Bild1.png)
+![Transformation](IMG_0032_header.jpg)
 
 ---
 
@@ -252,12 +249,6 @@ Bring <span style="color:teal"> teal </span> features into your <span style="col
 3. Have a <span style="color:teal">centralized hub</span> in place to ask for any kind of information or data <br>
 4. Avoid using <span style="color:orange">job titles</span> (in your mail signature) to tackle hierarchical structures <br>
 5. Instead of <span style="color:orange">interviewing candidates & naming a successor</span>, let people from the team <span style="color:teal">write the profile of their boss </span>, or even better: they do the interview <br>
-
----
-
-## PART V
-
-<span style="color:teal">SENSE & ADAPT
 
 ---
 
