@@ -118,7 +118,9 @@
 
 ---
 
-## ![Tealresult](IMG_0039_edited.jpg)
+![Tealresult](IMG_0039_edited.jpg)
+
+---
 
 <td><b style="font-size:36px"><span style="color:teal">KEY TAKEAWAY:</span> The how is more important, then productivity.</td> <br>
 
