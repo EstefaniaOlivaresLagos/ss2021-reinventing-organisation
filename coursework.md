@@ -122,7 +122,7 @@
 
 ---
 
-<td><b style="font-size:36px"><span style="color:teal">KEY TAKEAWAY:</span> The how is more important, then productivity.</td> <br>
+<td><b style="font-size:36px"><span style="color:teal">KEY TAKEAWAY:</span> The how is more important, than productivity.</td> <br>
 
 ---
 
@@ -190,6 +190,10 @@
 <td><b style="font-size:48px"><span style="color:teal">WHOLENESS</b>
 
 ![Wholeness2](IMG_0026_edited.jpg)
+
+---
+
+![Wholeness](IMG_0025_header.jpg)
 
 ---
 
