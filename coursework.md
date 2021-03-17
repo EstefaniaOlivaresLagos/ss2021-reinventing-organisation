@@ -122,7 +122,7 @@
 
 ---
 
-<td><b style="font-size:36px"><span style="color:teal">KEY TAKEAWAY:</span> The how is more important, then productivity.</td> <br>
+<td><b style="font-size:36px"><span style="color:teal">KEY TAKEAWAY:</span> The how is more important, than productivity.</td> <br>
 
 ---
 
