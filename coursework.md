@@ -63,6 +63,11 @@
 </table>
 
 ---
+<td><b style="font-size:48px"><span style="color:teal">At a Glance
+ 
+![OrganizationOverview](IMG_0029_edited.jpg)
+<br>
+---
 
 <td><b style="font-size:48px"><span style="color:blue"> EXERCISE</b>
 <br>
@@ -89,9 +94,37 @@
 ---
 
 ## PART II
+<span style="color:teal">LET'S BEGIN WITH A STORY
 
 ---
 
+<td><b style="font-size:60px">EXAMPLE - BUURTZORG</td> <br>
+<br>
+<table border="0">
+ <tr>
+    <td><b style="font-size:32px"><div style="width:290px"><span style="color:orange">Orange View</b></td>
+    <td><b style="font-size:32px"><div style="width:290px"><span style="color:teal">Teal View</b></td>
+ </tr>
+ <tr>
+    <td><b style="font-size:20px">Nurses as  machines</td>
+    <td><b style="font-size:20px">Nurses as  autonomous life advisers</td>
+ </tr>
+</table>
+
+![orangevsteal](IMG_0033_header.jpg)
+<td><b style="font-size:36px"><span style="color:teal">KEY TAKEAWAY:</span> The how is more important, then productivity</td> <br>
+
+---
+![Tealresult](IMG_0039_edited.jpg)
+---
+
+<td><b style="font-size:36px"><span style="color:teal">KEY TAKEAWAY:</span> The how is more important, then productivity</td> <br>
+---
+
+
+## Part III
+
+---
 ### Structures. Practices. Cultures.
 
 <td><b style="font-size:36px"><span style="color:teal">Three Breakthroughs </span>
@@ -121,6 +154,7 @@
 <td><b style="font-size:20px">- Instead: powerful, fluid systems with distributed authority and collective intelligence</td><br>
 <td><b style="font-size:20px">- The Result: No one is the boss and we need to overthink traditional management practices</td>
 
+![Hierarchy](IMG_0036_header.jpg)
 ---
 
 <td><b style="font-size:48px"><span style="color:teal">WHOLENESS</b>
@@ -130,6 +164,21 @@
 <td><b style="font-size:20px">- We all tend to hide our inner self at work but bring our professional ego forward</td> <br>
 <td><b style="font-size:20px">- Instead: Drop the mask and bring all of who we are to work</td><br>
 <td><b style="font-size:20px">- The Result: Work becomes a vehicle to help reveal our inner greatness and manifest our calling</td>
+
+![Wholeness](IMG_0025_header.jpg)
+
+---
+<td><b style="font-size:48px"><span style="color:teal">WHOLENESS</b>
+
+![Wholeness2](IMG_0027_edited.jpg)
+---
+<td><b style="font-size:48px"><span style="color:teal">WHOLENESS</b>
+
+![Wholeness2](IMG_0028_edited.jpg)
+---
+<td><b style="font-size:48px"><span style="color:teal">WHOLENESS</b>
+
+![Wholeness2](IMG_0026_edited.jpg)
 
 ---
 
@@ -143,28 +192,15 @@
 <td><b style="font-size:20px">- Instead: Listen where the corporation (Crew) is going to develop</td><br>
 <td><b style="font-size:20px">- The Result: Organisations are seen as living systems with a sense of direction of its own</td>
 
----
-
-## Part III
-
-<span style="color:teal">LET'S BEGIN WITH A STORY
+![BirdsFlock](IMG_0034_header.jpg)
 
 ---
 
-<td><b style="font-size:60px">EXAMPLE - BUURTZORG</td> <br>
-<br>
-<table border="0">
- <tr>
-    <td><b style="font-size:32px"><div style="width:290px"><span style="color:orange">Orange View</b></td>
-    <td><b style="font-size:32px"><div style="width:290px"><span style="color:teal">Teal View</b></td>
- </tr>
- <tr>
-    <td><b style="font-size:20px">Nurses as  machines</td>
-    <td><b style="font-size:20px">Nurses as  autonomous life advisers</td>
- </tr>
-</table>
-<br>
-<td><b style="font-size:36px"><span style="color:teal">KEY TAKEAWAY:</span> The how is more important, then productivity</td> <br>
+<td><b style="font-size:48px"><span style="color:teal">EVOLUTIONARY PROCESS</b>
+
+![EvolutionaryProcess](IMG_0035_edited.jpg)
+---
+<td><b style="font-size:48px"><span style="color:teal">At a Glance</b>
 
 ---
 
