@@ -157,7 +157,9 @@
 <td><b style="font-size:20px">- Instead: powerful, fluid systems with distributed authority and collective intelligence</td><br>
 <td><b style="font-size:20px">- The Result: No one is the boss and we need to overthink traditional management practices</td>
 
-## ![Hierarchy](IMG_0036_header.jpg)
+![Hierarchy](IMG_0036_header.jpg)
+
+---
 
 <td><b style="font-size:48px"><span style="color:teal">WHOLENESS</b>
 
@@ -173,11 +175,15 @@
 
 <td><b style="font-size:48px"><span style="color:teal">WHOLENESS</b>
 
-## ![Wholeness2](IMG_0027_edited.jpg)
+![Wholeness2](IMG_0027_edited.jpg)
+
+---
 
 <td><b style="font-size:48px"><span style="color:teal">WHOLENESS</b>
 
-## ![Wholeness2](IMG_0028_edited.jpg)
+![Wholeness2](IMG_0028_edited.jpg)
+
+---
 
 <td><b style="font-size:48px"><span style="color:teal">WHOLENESS</b>
 
@@ -202,6 +208,8 @@
 <td><b style="font-size:48px"><span style="color:teal">EVOLUTIONARY PROCESS</b>
 
 ## ![EvolutionaryProcess](IMG_0035_edited.jpg)
+
+---
 
 ## PART IV
 
