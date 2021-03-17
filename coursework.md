@@ -2,8 +2,8 @@
 
 <td><b style="font-size:56px"><span style="color:teal">REINVENTING ORGANISATION</span>
 <br>
-<td><b style="font-size:36px">Estefania Olivares Lagos
- <br> Saskia Nettekoven</span>
+<td><b style="font-size:36px"> 📚Estefania Olivares Lagos
+ <br> Saskia Nettekoven📚</span>
  <br>
 <br>
 <td><b style="font-size:16px"> March 18th, 2021
@@ -18,7 +18,7 @@
 
 <td><b style="font-size:52px"> PART I
 <br>
-<td><b style="font-size:36px"><strong>Evolution of Human Consciousness <br>& <br> Organisational Models</strong >
+<td><b style="font-size:36px"><strong>🧬Evolution of Human Consciousness & Organisational Models🧬</strong >
 
 ---
 
@@ -168,9 +168,58 @@
 
 ---
 
+## PART IV
+
+<span style="color:teal"> HOW TO TRANSFORM INTO A TEAL ORGANISATION
+
 ---
 
-## PART IV
+<td><b style="font-size:36px"> <span style="color:teal">4 WAYS TO TRANSFORM </tb> </span>
+<br>
+<table border="0">
+</tr>
+<td><b style="font-size:28px"><div style="width:200px">Experiment</b></td>
+<td><b style="font-size:28px"><div style="width:200px">Separate</b></td>
+<td><b style="font-size:28px"><div style="width:200px">Experts</b></td>
+<td><b style="font-size:28px"><div style="width:200px">Transform</b></td>
+ </tr>
+ <tr>
+    <td><b style="font-size:14px">Experiment with one unit which might have the energy</td>
+    <td><b style="font-size:14px">Build a separate small corporation next to your core one. Allow to jump on the new, while the old dies out.</td>
+    <td><b style="font-size:14px">Invite people from your whole organisation to jump on the experiment in their field of expertise</td>
+    <td><b style="font-size:14px">Transform only one practice within the whole organisation (e.g. meetings) and evaluate how it works.
+</td>
+ </tr>
+</table>
+
+![Bild](Bild1.png)
+
+---
+
+<td><b style="font-size:36px"> <span style="color:teal">WHAT CAN YOU DO? </tb> </span>
+<br>
+<td><b style="font-size:24px">Most likely, you won't be in a situation where you approach the CEO of your company and say "Hey! Let's take away all hierarchies"</tb>
+<br>
+<td><b style="font-size:28px">Following some practical tips</tb>
+---
+
+### Focus on horizontal changes
+
+Bring <span style="color:teal"> teal </span> features into your <span style="color:orange">orange</span> organisation
+
+---
+
+### Step by Step
+
+<td><b style="font-size:24px"> 1. Shift focus from <span style="color:orange">target driven</span> to a <span style="color:teal">customer-centric </span> approach  <br>
+2. Suggest to use <span style="color:teal">agile methods</span> so everyone gets used to an ever changing environment <br>
+3. Have a <span style="color:teal">centralized hub</span> in place to ask for any kind of information or data <br>
+4. Avoid using <span style="color:orange">job titles</span> (in your mail signature) to tackle hierarchical structures <br>
+5. Instead of <span style="color:orange">interviewing candidates & naming a successor</span>, let people from the team <span style="color:teal">write the profile of their boss </span>, or even better: they do the interview <br>
+
+---
+
+## PART V
 
 <span style="color:teal">SENSE & ADAPT
 
@@ -190,10 +239,19 @@
 </table>
 <br>
 
-<td><b style="font-size:28px">**Please insert your favourite 3 topics in the chat**
+---
+
+## ✨Thank you✨
 
 ---
 
----
+<td><b style="font-size:42px"><em>"The first book I read in one run for uni. Truly inspiring"</em>
+<br>
 
----
+<td><b style="font-size:16px">Saskia Nettekoven </td>
+<br>
+<br>
+
+<td><b style="font-size:42px"><em>"Great read. But is really everyone aiming towards a teal organisation?</em> 
+<br>
+<td><b style="font-size:16px">Estefania Olivares Lagos</td>
