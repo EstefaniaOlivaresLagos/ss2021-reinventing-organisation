@@ -63,6 +63,7 @@
 </table>
 
 ---
+
 <td><b style="font-size:48px"><span style="color:teal">At a Glance
  
 ![OrganizationOverview](IMG_0029_edited.jpg)
@@ -94,6 +95,7 @@
 ---
 
 ## PART II
+
 <span style="color:teal">LET'S BEGIN WITH A STORY
 
 ![Nurse](IMG_0037_header.jpg)
@@ -115,17 +117,18 @@
 ![orangevsteal](IMG_0033_header.jpg)
 
 ---
-![Tealresult](IMG_0039_edited.jpg)
----
+
+## ![Tealresult](IMG_0039_edited.jpg)
 
 <td><b style="font-size:36px"><span style="color:teal">KEY TAKEAWAY:</span> The how is more important, then productivity.</td> <br>
----
 
+---
 
 ## Part III
 
+<td><b style="font-size:36px">🗃️Structures. Practices. Cultures.🗃️
+
 ---
-### Structures. Practices. Cultures.
 
 <td><b style="font-size:36px"><span style="color:teal">Three Breakthroughs </span>
 
@@ -155,6 +158,7 @@
 <td><b style="font-size:20px">- The Result: No one is the boss and we need to overthink traditional management practices</td>
 
 ![Hierarchy](IMG_0036_header.jpg)
+
 ---
 
 <td><b style="font-size:48px"><span style="color:teal">WHOLENESS</b>
@@ -168,14 +172,19 @@
 ![Wholeness](IMG_0025_header.jpg)
 
 ---
+
 <td><b style="font-size:48px"><span style="color:teal">WHOLENESS</b>
 
 ![Wholeness2](IMG_0027_edited.jpg)
+
 ---
+
 <td><b style="font-size:48px"><span style="color:teal">WHOLENESS</b>
 
 ![Wholeness2](IMG_0028_edited.jpg)
+
 ---
+
 <td><b style="font-size:48px"><span style="color:teal">WHOLENESS</b>
 
 ![Wholeness2](IMG_0026_edited.jpg)
@@ -198,7 +207,8 @@
 
 <td><b style="font-size:48px"><span style="color:teal">EVOLUTIONARY PROCESS</b>
 
-![EvolutionaryProcess](IMG_0035_edited.jpg)
+## ![EvolutionaryProcess](IMG_0035_edited.jpg)
+
 ---
 
 ## PART IV
