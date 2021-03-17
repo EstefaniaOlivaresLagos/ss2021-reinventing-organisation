@@ -252,22 +252,6 @@ Bring <span style="color:teal"> teal </span> features into your <span style="col
 
 ---
 
-<table border="0">
- <tr>
-    <td><b style="font-size:32px"><div style="width:290px">Self-Management</b></td>
-    <td><b style="font-size:32px"><div style="width:290px">Wholeness</b></td>
-     <td><b style="font-size:32px"><div style="width:290px">Evolutionary Process</b></td>
- </tr>
- <tr>
-    <td><b style="font-size:16px">1. Performance Evaluation <br> 2. Decision Making <br> 3. Compensation & Incentives</td>
-    <td><b style="font-size:16px">4. Save Spaces (Feedback) <br> 5. Meeting Culture <br> 6. Commitment & Working Hours <br> 7. Storytelling</td>
-    <td><b style="font-size:16px">8. Budget Planning <br> 9. Strategy <br> 10. Change Management <br> 11. Competition</td>
- </tr>
-</table>
-<br>
-
----
-
 ## ✨Thank you✨
 
 ---
