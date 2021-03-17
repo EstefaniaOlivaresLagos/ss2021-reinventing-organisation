@@ -193,6 +193,10 @@
 
 ---
 
+![Wholeness](IMG_0025_header.jpg)
+
+---
+
 <td><b style="font-size:48px"><span style="color:teal">EVOLUTIONARY PROCESS</b>
 
 ###### Stop trying to force future into existence.
