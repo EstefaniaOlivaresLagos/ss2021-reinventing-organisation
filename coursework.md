@@ -229,9 +229,9 @@
 <td><b style="font-size:28px"><div style="width:200px">Transform</b></td>
  </tr>
  <tr>
-    <td><b style="font-size:14px">Experiment with one unit which might have the energy</td>
+    <td><b style="font-size:14px">Experiment with one unit which might have the energy.</td>
     <td><b style="font-size:14px">Build a separate small corporation next to your core one. Allow to jump on the new, while the old dies out.</td>
-    <td><b style="font-size:14px">Invite people from your whole organisation to jump on the experiment in their field of expertise</td>
+    <td><b style="font-size:14px">Invite people from your whole organisation to jump on the experiment in their field of expertise.</td>
     <td><b style="font-size:14px">Transform only one practice within the whole organisation (e.g. meetings) and evaluate how it works.
 </td>
  </tr>
