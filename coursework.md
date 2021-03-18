@@ -88,7 +88,7 @@
  <tr>
     <td><b style="font-size:16px">1. Saskia <br> 2. Estefania <br> 3. Leon <br> 4. Dominique <br> 5. Thomas </td>
     <td><b style="font-size:16px">1. Douglas <br> 2. Vodafone <br> 3. RTL Group <br> 4. Remondis <br> 5. TBD</td>
-    <td><b style="font-size:16px"><span style="color:teal">1. "light Teal"</span> <br><span style="color:orange">2. Orange</span> <br> <span style="color:black">3. TBD</span> <br> <span style="color:black">4. TBD</span> <br> <span style="color:black">5. TBD</span> </td>
+    <td><b style="font-size:16px"><span style="color:teal">1. "light Teal"</span> <br><span style="color:orange">2. Orange</span> <br> <span style="color:green">3. Green</span> <br> <span style="color:black">4. TBD</span> <br> <span style="color:black">5. TBD</span> </td>
  </tr>
 </table>
     
