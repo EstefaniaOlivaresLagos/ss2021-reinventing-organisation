@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="dist/theme/white.css">
 
-<td><b style="font-size:56px"><span style="color:teal">REINVENTING ORGANISATION</span>
+<td><b style="font-size:56px"><span style="color:teal">REINVENTING ORGANIZATION</span>
 <br>
 <td><b style="font-size:36px"> 📚Estefania Olivares Lagos
  <br> Saskia Nettekoven📚</span>
@@ -162,6 +162,7 @@
 ![Hierarchy](IMG_0036_header.jpg)
 
 ---
+
 <td><b style="font-size:48px"><span style="color:teal">SELF-MANAGEMENT</b>
 
 ![IMG_0034_edited.jpg](IMG_0034_edited.jpg)
@@ -225,8 +226,8 @@
 <td><b style="font-size:36px"><span style="color:teal">KEY TAKEAWAY:</span> Sense & Adapt.</td> <br>
 
 ---
-![Overview](IMG_0047_edited.jpg)
----
+
+## ![Overview](IMG_0047_edited.jpg)
 
 ## PART IV
 
@@ -261,11 +262,6 @@
 <td><b style="font-size:24px">Most likely, you won't be in a situation where you approach the CEO of your company and say "Hey! Let's take away all hierarchies"</tb>
 <br>
 <td><b style="font-size:28px">Following some practical tips</tb>
----
-
-### Focus on horizontal changes
-
-Bring <span style="color:teal"> teal </span> features into your <span style="color:orange">orange</span> organisation
 
 ---
 
