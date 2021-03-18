@@ -118,7 +118,7 @@
 
 ---
 
-![Tealresult](IMG_0039_edited.jpg)
+![Tealresult](IMG_0045_edited.jpg)
 
 ---
 
@@ -224,6 +224,8 @@
 
 <td><b style="font-size:36px"><span style="color:teal">KEY TAKEAWAY:</span> Sense & Adapt.</td> <br>
 
+---
+![Overview](IMG_0047_edited.jpg)
 ---
 
 ## PART IV
