@@ -227,7 +227,9 @@
 
 ---
 
-## ![Overview](IMG_0047_edited.jpg)
+![Overview](IMG_0047_edited.jpg)
+
+---
 
 ## PART IV
 
