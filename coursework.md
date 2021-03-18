@@ -162,6 +162,11 @@
 ![Hierarchy](IMG_0036_header.jpg)
 
 ---
+<td><b style="font-size:48px"><span style="color:teal">SELF-MANAGEMENT</b>
+
+![IMG_0034_edited.jpg](IMG_0034_edited.jpg)
+
+---
 
 <td><b style="font-size:48px"><span style="color:teal">WHOLENESS</b>
 
@@ -193,7 +198,7 @@
 
 ---
 
-![Wholeness](IMG_0025_header.jpg)
+![Wholeness](IMG_0025_edited.jpg)
 
 ---
 
@@ -207,13 +212,17 @@
 <td><b style="font-size:20px">- Instead: Listen where the corporation (Crew) is going to develop</td><br>
 <td><b style="font-size:20px">- The Result: Organisations are seen as living systems with a sense of direction of its own</td>
 
-![BirdsFlock](IMG_0034_header.jpg)
+![Boss](IMG_0040_header.jpg)
 
 ---
 
 <td><b style="font-size:48px"><span style="color:teal">EVOLUTIONARY PROCESS</b>
 
 ## ![EvolutionaryProcess](IMG_0035_edited.jpg)
+
+---
+
+<td><b style="font-size:36px"><span style="color:teal">KEY TAKEAWAY:</span> Sense & Adapt.</td> <br>
 
 ---
 
